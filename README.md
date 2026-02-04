@@ -1,2 +1,2 @@
 # leetcode
-this repo is for olution of leetcode DSA questions
+this repo is for solution of leetcode DSA questions
